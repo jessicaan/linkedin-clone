@@ -1,6 +1,6 @@
 /* eslint-disable no-unreachable */
 import React from "react";
-import "./InputOption.css";
+import "./styles/InputOption.css";
 
 function InputOption({ title, Icon, color }) {
   return (
